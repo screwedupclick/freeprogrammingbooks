@@ -84,7 +84,7 @@ This project aims to streamline access to free programming educational content. 
 
 This project requires the following dependencies:
 
-- **Programming Language:** unknown
+- **Programming Language:** mostly Python, Javascript and some AI learning
 
 ### Installation
 
